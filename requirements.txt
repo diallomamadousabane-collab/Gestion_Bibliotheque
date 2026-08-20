@@ -1,0 +1,7 @@
+# Aucune dépendance externe requise
+# Cette application utilise uniquement la biblioteca standard Python
+# Compatible avec Python 3.6+
+
+# Pour le développement (optionnel):
+# pytest==7.0.0  # Pour les tests unitaires
+# pytest-cov==3.0.0  # Pour la couverture de code
