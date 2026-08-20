@@ -3,6 +3,7 @@ Module contenant la classe Adherent
 """
 
 
+
 class Adherent:
     """Classe représentant un adhérent de la bibliothèque"""
     
